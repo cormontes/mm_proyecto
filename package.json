@@ -1,0 +1,56 @@
+{
+  "name": "mike-mike-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^6.1.0",
+    "@hookform/resolvers": "^0.1.0",
+    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "aes-everywhere": "^1.0.0",
+    "autoprefixer": "9",
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.4",
+    "payment": "^2.4.4",
+    "postcss": "7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-hook-form": "^6.15.1",
+    "react-modal": "^3.12.1",
+    "react-payment-inputs": "^1.1.8",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-slick": "^0.28.0",
+    "react-toastify": "^7.0.4",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "deploy-dev": "firebase deploy --only hosting:mike-mike-dev",
+    "deploy-prod": "firebase deploy --only hosting:mike-mike-sv"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "mike-mike-sv"
+  },
+  "targets": {
+    "mike-mike-sv": {
+      "hosting": {
+        "mike-mike-dev": [
+          "mike-mike-dev"
+        ],
+        "mike-mike-sv": [
+          "mike-mike-sv"
+        ]
+      }
+    }
+  }
+}

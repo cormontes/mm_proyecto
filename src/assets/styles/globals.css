@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Circular;
+    font-weight: 300;
+    src: url(../fonts/CircularStdBook.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: Circular;
+    font-weight: 700;
+    src: url(../fonts/CircularStdBold.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: Neutra;
+    font-weight: 300;
+    src: url(../fonts/NeutraBook.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: Neutra;
+    font-weight: 700;
+    src: url(../fonts/NeutraBold.ttf) format("truetype");
+  }
+}

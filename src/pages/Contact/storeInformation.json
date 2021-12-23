@@ -1,0 +1,542 @@
+[
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Metrocentro",
+    "address": "Centro Comercial Metrocentro, Locales 72 Y 73.",
+    "phone": "2260-3252",
+    "email": "tda10@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 07:00 p.m.",
+      "Mar. 09:00 a.m. - 07:00 p.m.",
+      "Mié. 09:00 a.m. - 07:00 p.m.",
+      "Jue. 09:00 a.m. - 07:00 p.m.",
+      "Vie. 09:00 a.m. - 07:00 p.m.",
+      "Sáb. 09:00 a.m. - 07:00 p.m.",
+      "Dom. 10:00 a.m. - 05:30 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Metrocentro Octava Etapa",
+    "address": "Fl Av Los Andes, 33a Av. Norte Y Blvd. Tutunichapa Locales 304 Y 305.",
+    "phone": "2261-0057",
+    "email": "tda09@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 07:00 p.m.",
+      "Mar. 09:00 a.m. - 07:00 p.m.",
+      "Mié. 09:00 a.m. - 07:00 p.m.",
+      "Jue. 09:00 a.m. - 07:00 p.m.",
+      "Vie. 09:00 a.m. - 07:00 p.m.",
+      "Sáb. 09:00 a.m. - 07:00 p.m.",
+      "Dom. 10:00 a.m. - 06:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SM",
+    "departmentName": "San Miguel",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Metrocentro San Miguel",
+    "address": "Av. Roosevelt Centro Comercial Metrocentro, Locales 72,73 y 74.",
+    "phone": "2667-0459",
+    "email": "tda11@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:30 a.m. - 07:00 p.m.",
+      "Mar. 09:30 a.m. - 07:00 p.m.",
+      "Mié. 09:30 a.m. - 07:00 p.m.",
+      "Jue. 09:30 a.m. - 07:00 p.m.",
+      "Vie. 09:30 a.m. - 07:00 p.m.",
+      "Sáb. 09:30 a.m. - 07:00 p.m.",
+      "Dom. 09:30 a.m. - 06:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SM",
+    "departmentName": "San Miguel",
+    "country" : "El Salvador",
+    "name": "San Miguel Centro",
+    "address": "4a. Calle Poniente No. 105.",
+    "phone": "2661-7316",
+    "email": "tda12@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:00 a.m. - 06:00 p.m.",
+      "Mar. 08:00 a.m. - 06:00 p.m.",
+      "Mié. 08:00 a.m. - 06:00 p.m.",
+      "Jue. 08:00 a.m. - 06:00 p.m.",
+      "Vie. 08:00 a.m. - 06:00 p.m.",
+      "Sáb. 08:00 a.m. - 06:00 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Plaza Mundo",
+    "address": "Centro Comercial Plaza Mundo, 2do. Nivel Local 78, 83 Y 83a, Blvd. Del Ejercito.",
+    "phone": "2277-3224",
+    "email": "tda08@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 08:00 p.m.",
+      "Mar. 09:00 a.m. - 08:00 p.m.",
+      "Mié. 09:00 a.m. - 08:00 p.m.",
+      "Jue. 09:00 a.m. - 08:00 p.m.",
+      "Vie. 09:00 a.m. - 08:00 p.m.",
+      "Sáb. 09:00 a.m. - 08:00 p.m.",
+      "Dom. 10:00 a.m. - 06:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Plaza Mundo 4° Etapa",
+    "address": "Centro Comercial Plaza Mundo, 4º Etapa, Local # 197.",
+    "phone": "2277-6495",
+    "email": "tda31@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 08:00 p.m.",
+      "Mar. 09:00 a.m. - 08:00 p.m.",
+      "Mié. 09:00 a.m. - 08:00 p.m.",
+      "Jue. 09:00 a.m. - 08:00 p.m.",
+      "Vie. 09:00 a.m. - 08:00 p.m.",
+      "Sáb. 09:00 a.m. - 08:00 p.m.",
+      "Dom. 10:00 a.m. - 06:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "LI",
+    "departmentName": "La Libertad",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Lourdes",
+    "address": "Carr. A Sta Ana Km. 23 1/2, Ctro Com Unicentro Lourdes, Locales 8 Y 10h. Lourdes",
+    "phone": "2346-5812",
+    "email": "tda16@mikemike.com.sv",
+    "schedule": [
+      "Lun. 10:00 a.m. - 07:00 p.m.",
+      "Mar. 10:00 a.m. - 07:00 p.m.",
+      "Mié. 10:00 a.m. - 07:00 p.m.",
+      "Jue. 10:00 a.m. - 07:00 p.m.",
+      "Vie. 10:00 a.m. - 07:00 p.m.",
+      "Sáb. 10:00 a.m. - 07:00 p.m.",
+      "Dom. 10:00 a.m. - 04:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "LI",
+    "departmentName": "La Libertad",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Merliot",
+    "address": "Calle Chiltuipan, Centro Comercial Merliot, Locales 329 Y 331. Santa Tecla",
+    "phone": "2288-8803",
+    "email": "tda02@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 08:00 p.m.",
+      "Mar. 09:00 a.m. - 08:00 p.m.",
+      "Mié. 09:00 a.m. - 08:00 p.m.",
+      "Jue. 09:00 a.m. - 08:00 p.m.",
+      "Vie. 09:00 a.m. - 08:00 p.m.",
+      "Sáb. 09:00 a.m. - 08:00 p.m.",
+      "Dom. 10:00 a.m. - 06:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Galerias Escalon",
+    "address": "Paseo General Escalón, Galerías Escalón Nivel 25, Locales 242 y 243.",
+    "phone": "2245-0841",
+    "email": "tda01@mikemike.com.sv",
+    "schedule": [
+      "Lun. 10:00 a.m. - 08:00 p.m.",
+      "Mar. 10:00 a.m. - 08:00 p.m.",
+      "Mié. 10:00 a.m. - 08:00 p.m.",
+      "Jue. 10:00 a.m. - 08:00 p.m.",
+      "Vie. 10:00 a.m. - 08:00 p.m.",
+      "Sáb. 10:00 a.m. - 08:00 p.m.",
+      "Dom. 10:00 a.m. - 06:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Metrocentro Wall Shop GO",
+    "address": "Centro Comercial Metrocentro, 7a. Etapa, Frente A Levis Store, San Salvador.",
+    "phone": "2261-0202",
+    "email": "tda20@mikemike.com.sv",
+    "schedule": [
+      "Lun. 10:00 a.m. - 07:00 p.m.",
+      "Mar. 10:00 a.m. - 07:00 p.m.",
+      "Mié. 10:00 a.m. - 07:00 p.m.",
+      "Jue. 10:00 a.m. - 07:00 p.m.",
+      "Vie. 10:00 a.m. - 07:00 p.m.",
+      "Sáb. 10:00 a.m. - 07:00 p.m.",
+      "Dom. 10:00 a.m. - 06:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Multiplaza",
+    "address": "Centro Comercial Multiplaza Locales B-13, B-14.",
+    "phone": "2243-3961",
+    "email": "tda18@mikemike.com.sv",
+    "schedule": [
+      "Lun. 10:00 a.m. - 08:00 p.m.",
+      "Mar. 10:00 a.m. - 08:00 p.m.",
+      "Mié. 10:00 a.m. - 08:00 p.m.",
+      "Jue. 10:00 a.m. - 08:00 p.m.",
+      "Vie. 10:00 a.m. - 08:00 p.m.",
+      "Sáb. 10:00 a.m. - 08:00 p.m.",
+      "Dom. 10:00 a.m. - 07:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Libertad",
+    "address": "2a Av. Sur Y 4a Calle Oriente, Plaza Comercial Libertad Locales 10 Y 11.",
+    "phone": "2221-5680",
+    "email": "tda05@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 06:30 p.m.",
+      "Mar. 09:00 a.m. - 06:30 p.m.",
+      "Mié. 09:00 a.m. - 06:30 p.m.",
+      "Jue. 09:00 a.m. - 06:30 p.m.",
+      "Vie. 09:00 a.m. - 06:30 p.m.",
+      "Sáb. 09:00 a.m. - 06:30 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Sucursal Dario",
+    "address": "Calle Ruben Dario Y 9a. Av. Sur Locales 04 - 05.",
+    "phone": "2222-8712",
+    "email": "tda07@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:00 a.m. - 06:00 p.m.",
+      "Mar. 08:00 a.m. - 06:00 p.m.",
+      "Mié. 08:00 a.m. - 06:00 p.m.",
+      "Jue. 08:00 a.m. - 06:00 p.m.",
+      "Vie. 08:00 a.m. - 06:00 p.m.",
+      "Sáb. 08:00 a.m. - 06:00 p.m.",
+      "Dom. 09:00 a.m. - 01:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial San Luis",
+    "address": "Centro Comercial San Luis, Calle San Antonio Abad Local 2-b.",
+    "phone": "2226-4657",
+    "email": "tda04@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 07:00 p.m.",
+      "Mar. 09:00 a.m. - 07:00 p.m.",
+      "Mié. 09:00 a.m. - 07:00 p.m.",
+      "Jue. 09:00 a.m. - 07:00 p.m.",
+      "Vie. 09:00 a.m. - 07:00 p.m.",
+      "Sáb. 09:00 a.m. - 07:00 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Unicentro Alta Vista.",
+    "address": "Av. Ppal Y Blvd Las Pavas, Ctro Com. Unicentro Alta Vista, Local 1, Ilopango.",
+    "phone": "2299-7022",
+    "email": "tda15@mikemike.com.sv",
+    "schedule": [
+      "Lun. 10:00 a.m. - 07:00 p.m.",
+      "Mar. 10:00 a.m. - 07:00 p.m.",
+      "Mié. 10:00 a.m. - 07:00 p.m.",
+      "Jue. 10:00 a.m. - 07:00 p.m.",
+      "Vie. 10:00 a.m. - 07:00 p.m.",
+      "Sáb. 10:00 a.m. - 07:00 p.m.",
+      "Dom. 10:00 a.m. - 04:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Unicentro Soyapango",
+    "address": "Centro Comercial Unicentro, Locales 8 Y 9 Soyapango.",
+    "phone": "2291-0357",
+    "email": "tda06@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 07:00 p.m.",
+      "Mar. 09:00 a.m. - 07:00 p.m.",
+      "Mié. 09:00 a.m. - 07:00 p.m.",
+      "Jue. 09:00 a.m. - 07:00 p.m.",
+      "Vie. 09:00 a.m. - 07:00 p.m.",
+      "Sáb. 09:00 a.m. - 07:00 p.m.",
+      "Dom. 10:00 a.m. - 04:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SO",
+    "departmentName": "Sonsonate",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Metrocentro Sonsonate",
+    "address": "Centro Comercial Metrocentro Sonsonate, Locales 58 Y 59.",
+    "phone": "2450-3839",
+    "email": "tda13@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 07:00 p.m.",
+      "Mar. 09:00 a.m. - 07:00 p.m.",
+      "Mié. 09:00 a.m. - 07:00 p.m.",
+      "Jue. 09:00 a.m. - 07:00 p.m.",
+      "Vie. 09:00 a.m. - 07:00 p.m.",
+      "Sáb. 09:00 a.m. - 07:00 p.m.",
+      "Dom. 09:00 a.m. - 05:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SO",
+    "departmentName": "Sonsonate",
+    "country" : "El Salvador",
+    "name": "Sucursal Sonsonate Centro",
+    "address": "Cuarta Avenida Sur, 1-2b, Barrio Veracruz.",
+    "phone": "2451-1466",
+    "email": "tda26@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 05:30 p.m.",
+      "Mar. 09:00 a.m. - 05:30 p.m.",
+      "Mié. 09:00 a.m. - 05:30 p.m.",
+      "Jue. 09:00 a.m. - 05:30 p.m.",
+      "Vie. 09:00 a.m. - 05:30 p.m.",
+      "Sáb. 09:00 a.m. - 01:00 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "SA",
+    "departmentName": "Santa Ana",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Metrocentro Santa Ana",
+    "address": "Centro Comercial Metrocentro Santa Ana, Locales 140, 141 Y 151.",
+    "phone": "2440-3663",
+    "email": "tda14@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 07:00 p.m.",
+      "Mar. 09:00 a.m. - 07:00 p.m.",
+      "Mié. 09:00 a.m. - 07:00 p.m.",
+      "Jue. 09:00 a.m. - 07:00 p.m.",
+      "Vie. 09:00 a.m. - 07:00 p.m.",
+      "Sáb. 09:00 a.m. - 07:00 p.m.",
+      "Dom. 10:00 a.m. - 04:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SA",
+    "departmentName": "Santa Ana",
+    "country" : "El Salvador",
+    "name": "Sucursal Santa Ana Centro",
+    "address": "Avenida Independencia Sur, Edificio García Rossi, Local Numero 1.",
+    "phone": "2447-0151",
+    "email": "tda25@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:30 a.m. - 05:30 p.m.",
+      "Mar. 08:30 a.m. - 05:30 p.m.",
+      "Mié. 08:30 a.m. - 05:30 p.m.",
+      "Jue. 08:30 a.m. - 05:30 p.m.",
+      "Vie. 08:30 a.m. - 05:30 p.m.",
+      "Sáb. 09:00 a.m. - 01:00 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "AH",
+    "departmentName": "Ahuachapan",
+    "country" : "El Salvador",
+    "name": "Sucursal Ahuachapan",
+    "address": "Barrio El Calvario 8a. Calle Pte Y Av.2 De Abril No. 2-2 Local#2.",
+    "phone": "2443-1533",
+    "email": "tda22@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:00 a.m. - 06:00 p.m.",
+      "Mar. 08:00 a.m. - 06:00 p.m.",
+      "Mié. 08:00 a.m. - 06:00 p.m.",
+      "Jue. 08:00 a.m. - 06:00 p.m.",
+      "Vie. 08:00 a.m. - 06:00 p.m.",
+      "Sáb. 08:00 a.m. - 04:30 p.m.",
+      "Dom. 08:00 a.m. - 12:00 m.d."
+    ]
+  },
+  {
+    "departmentCode": "US",
+    "departmentName": "Usulutan",
+    "country" : "El Salvador",
+    "name": "Sucursal Usulutan",
+    "address": "1ª. Calle Oriente Número 9-a.",
+    "phone": "2624-8135",
+    "email": "tda19@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:00 a.m. - 05:00 p.m.",
+      "Mar. 08:00 a.m. - 05:00 p.m.",
+      "Mié. 08:00 a.m. - 05:00 p.m.",
+      "Jue. 08:00 a.m. - 05:00 p.m.",
+      "Vie. 08:00 a.m. - 05:00 p.m.",
+      "Sáb. 08:00 a.m. - 05:00 p.m.",
+      "Dom. 08:00 a.m. - 01:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "PA",
+    "departmentName": "La Paz",
+    "country" : "El Salvador",
+    "name": "Sucursal Zacatecoluca",
+    "address": "Av. Juan Manuel Rodríguez, Número #3. Zacatecoluca",
+    "phone": "2334-5261",
+    "email": "tda21@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:00 a.m. - 05:00 p.m.",
+      "Mar. 08:00 a.m. - 05:00 p.m.",
+      "Mié. 08:00 a.m. - 05:00 p.m.",
+      "Jue. 08:00 a.m. - 05:00 p.m.",
+      "Vie. 08:00 a.m. - 05:00 p.m.",
+      "Sáb. 08:00 a.m. - 05:00 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Centro Comercial Metropolis",
+    "address": "Plaza Metrópolis Urb. Metrópolis Norte, Calle Antigua A Zacamil L-40, Mejicanos.",
+    "phone": "2232-4585",
+    "email": "tda03@mikemike.com.sv",
+    "schedule": [
+      "Lun. 10:00 a.m. - 07:00 p.m.",
+      "Mar. 10:00 a.m. - 07:00 p.m.",
+      "Mié. 10:00 a.m. - 07:00 p.m.",
+      "Jue. 10:00 a.m. - 07:00 p.m.",
+      "Vie. 10:00 a.m. - 07:00 p.m.",
+      "Sáb. 10:00 a.m. - 07:00 p.m.",
+      "Dom. 10:00 a.m. - 04:00 p.m."
+    ]
+  },
+  {
+    "departmentCode": "SV",
+    "departmentName": "San Vicente",
+    "country" : "El Salvador",
+    "name": "Sucursal San Vicente",
+    "address": "1ª. Av. Nte. Número 9106, Barrio El Centro.",
+    "phone": "2393-3784",
+    "email": "tda23@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:30 a.m. - 05:30 p.m.",
+      "Mar. 08:30 a.m. - 05:30 p.m.",
+      "Mié. 08:30 a.m. - 05:30 p.m.",
+      "Jue. 08:30 a.m. - 05:30 p.m.",
+      "Vie. 08:30 a.m. - 05:30 p.m.",
+      "Sáb. 09:00 a.m. - 01:00 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "CH",
+    "departmentName": "Chalatenango",
+    "country" : "El Salvador",
+    "name": "Sucursal Chalatenango",
+    "address": "33 Av. Sur. # 10 Barrio El Centro.",
+    "phone": "2301-0297",
+    "email": "tda29@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:30 a.m. - 05:00 p.m.",
+      "Mar. 08:30 a.m. - 05:00 p.m.",
+      "Mié. 08:30 a.m. - 05:00 p.m.",
+      "Jue. 08:30 a.m. - 05:00 p.m.",
+      "Vie. 08:30 a.m. - 05:00 p.m.",
+      "Sáb. 07:30 a.m. - 03:00 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "LI",
+    "departmentName": "La Libertad",
+    "country" : "El Salvador",
+    "name": "Sucursal Santa Tecla",
+    "address": "1a. Av. Sur, # 2-6, Santa Tecla.",
+    "phone": "2228-7975",
+    "email": "tda30@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:00 a.m. - 05:30 p.m.",
+      "Mar. 08:00 a.m. - 05:30 p.m.",
+      "Mié. 08:00 a.m. - 05:30 p.m.",
+      "Jue. 08:00 a.m. - 05:30 p.m.",
+      "Vie. 08:00 a.m. - 05:30 p.m.",
+      "Sáb. 08:00 a.m. - 05:30 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Sucursal Outlet",
+    "address": "9a. Av. Nte. Pje. Costa Rica, Edificio Grecia L-1, S.s.",
+    "phone": "2271-2151",
+    "email": "tda50@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:00 a.m. - 06:00 p.m.",
+      "Mar. 08:00 a.m. - 06:00 p.m.",
+      "Mié. 08:00 a.m. - 06:00 p.m.",
+      "Jue. 08:00 a.m. - 06:00 p.m.",
+      "Vie. 08:00 a.m. - 06:00 p.m.",
+      "Sáb. 08:00 a.m. - 06:00 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Sucursal Don Rua",
+    "address": "5ª Av. Nte. Centro Comercial Wilson #12.",
+    "phone": "2225-7183",
+    "email": "tda27@mikemike.com.sv",
+    "schedule": [
+      "Lun. 08:30 a.m. - 05:30 p.m.",
+      "Mar. 08:30 a.m. - 05:30 p.m.",
+      "Mié. 08:30 a.m. - 05:30 p.m.",
+      "Jue. 08:30 a.m. - 05:30 p.m.",
+      "Vie. 08:30 a.m. - 05:30 p.m.",
+      "Sáb. 08:30 a.m. - 05:30 p.m.",
+      "Dom. Cerrado"
+    ]
+  },
+  {
+    "departmentCode": "SS",
+    "departmentName": "San Salvador",
+    "country" : "El Salvador",
+    "name": "Plaza Mundo Apopa",
+    "address": "Carr. Troncal Del Nte. km 12, Apopa",
+    "phone": "",
+    "email": "tda17@mikemike.com.sv",
+    "schedule": [
+      "Lun. 09:00 a.m. - 07:00 p.m.",
+      "Mar. 09:00 a.m. - 07:00 p.m.",
+      "Mié. 09:00 a.m. - 07:00 p.m.",
+      "Jue. 09:00 a.m. - 07:00 p.m.",
+      "Vie. 09:00 a.m. - 07:00 p.m.",
+      "Sáb. 09:00 a.m. - 07:00 p.m.",
+      "Dom. 09:00 a.m. - 07:00 p.m."
+    ]
+  }
+]
