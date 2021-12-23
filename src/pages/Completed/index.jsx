@@ -37,7 +37,7 @@ export default function Completed() {
           nosotros!
         </p>
         <p className=" text-grayText mt-5 text-lg text-center">
-          Te enviamos un email con un link a nuestra tienda,{" "}
+          Te enviamos un correo,{" "}
           <br className="hidden lg:inline" /> para que puedas seguir la entrega
           de tu compra.
         </p>
